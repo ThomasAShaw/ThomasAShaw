@@ -7,14 +7,14 @@ For detailed project descriptions, my portfolio, and other links, please visit m
 ### [ThomasAShaw.com](http://thomasashaw.com)
 
 ## 🔧 Skills & Technologies
-Programming Languages: C/C++, SystemVerilog, Java, Python, Assembly
-Hardware Design: FPGA development, Digital Design, Hardware-Software Co-Design
-Software Development: Object-Oriented Programming, Application Development, Kernel Development
-Embedded Systems: Embedded Devices, Real-Time Operating Systems, Firmware Development
-Tools: Quartus, ModelSim, Git, JavaFX, JUnit, Gradle, Linux
+ - **Programming Languages:** C/C++, SystemVerilog, Java, Python, Assembly
+ - **Hardware Design:** FPGA development, Digital Design, Hardware-Software Co-Design
+ - **Software Development:** Object-Oriented Programming, Application Development, Kernel Development
+ - **Embedded Systems:** Embedded Devices, Real-Time Operating Systems, Firmware Development
+ - **Tools:** Quartus, ModelSim, Git, JavaFX, JUnit, Gradle, Linux
 
 ## 📫 Get in Touch
-  - LinkedIn: [linkedin.com/in/thomas-andrew-shaw/](https://www.linkedin.com/in/thomas-andrew-shaw/)
-  - Email: [tshaw258@student.ubc.ca](mailto:tshaw258@student.ubc.ca)
+  - **LinkedIn:** [linkedin.com/in/thomas-andrew-shaw/](https://www.linkedin.com/in/thomas-andrew-shaw/)
+  - **Email:** [tshaw258@student.ubc.ca](mailto:tshaw258@student.ubc.ca)
 
 Feel free to explore my repositories here on GitHub, and don't hesitate to reach out if you have any questions or collaboration ideas!
