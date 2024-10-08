@@ -1,13 +1,14 @@
 ## 😁 Hello, I’m Thomas Shaw.
 Welcome to my GitHub profile! 
-I’m a 3rd-year Computer Engineering student at the University of British Columbia. I am deeply passionate about exploring the intersections of software and hardware technology both inside and outside my degree.
+I’m a 4th-year Computer Engineering student at the University of British Columbia. I am deeply passionate about exploring the intersections of software and hardware technology both inside and outside my degree.
+I'm currently working at Semios as an Embedded Developer Co-op.
 
 ## 🌐 More About Me
 For detailed project descriptions, my portfolio, and other links, please visit my personal website:
 ### [ThomasAShaw.com](http://thomasashaw.com)
 
 ## 🔧 Skills & Technologies
- - **Programming Languages:** C/C++, SystemVerilog, Java, Python, Assembly
+ - **Programming Languages:** C/C++, Java, Python, SystemVerilog/Verilog, Assembly
  - **Hardware Design:** FPGA development, Digital Design, Hardware-Software Co-Design
  - **Software Development:** Object-Oriented Programming, Application Development, Kernel Development
  - **Embedded Systems:** Embedded Devices, Real-Time Operating Systems, Firmware Development
